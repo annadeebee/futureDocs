@@ -1,11 +1,21 @@
 ---
-title: Front Page
-layout: CD Workflow
+title: CD Workflow
+layout: default
 nav_order: 1
 ---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Purpose
 
-This document is intended to as a guide for the Unlocking Our Sound Heritage (UOSH) partners to transfer and capture audio data from Compact Disc.
+This document is intended to as a guide for the Unlocking Our Sound Heritage (UOSH) natioanl partners to transfer and accurately capture audio data from Compact Disc.
 
 ## Technology
 
