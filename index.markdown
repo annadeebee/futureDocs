@@ -22,4 +22,5 @@ This is a numbered list:
 2. item 2
 3. item 3
 
-
+Inline-style:
+![Image of McGill Library] (https://blogs.library.mcgill.ca/rbsc/files/2018/07/Screen-Shot-2018-07-06-at-6.05.32-PM.png) 
